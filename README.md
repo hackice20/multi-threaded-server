@@ -61,4 +61,6 @@ Observe the Terminal Output:
 
    The server will print the thread IDs handling each request.
     If different thread IDs are shown for different requests, it confirms that the server is handling requests in a multithreaded manner.
-    ![OutPut](https://github.com/hackice20/multi-threaded-server/blob/master/Screenshot%202024-09-04%20060752.png)
+
+    
+   ![OutPut](https://github.com/hackice20/multi-threaded-server/blob/master/Screenshot%202024-09-04%20060752.png)
