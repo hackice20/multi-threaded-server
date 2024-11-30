@@ -2,37 +2,6 @@
 
 This is a simple multithreaded HTTP server written in Rust. It handles multiple client requests concurrently using threads. The server listens on `127.0.0.1:6969` and responds with a basic "Hello, World!" message to any incoming HTTP request.
 
-## Setup
-
-### Prerequisites
-
-- [Rust](https://www.rust-lang.org/tools/install) (Ensure that Rust is installed on your system)
-
-### Clone the Repository
-
-If you haven't already, clone the repository:
-
-```
-git clone https://github.com/hackice20/multi-threaded-server
-cd multi-threaded-server
-```
-Build the Project
-
-To build the project, run the following command:
-
-```
-
-cargo build
-```
-This will compile the project and generate an executable in the target/debug directory.
-Run the Project
-
-To run the server, use the following command:
-
-
-```
-cargo run
-```
 The server will start listening on 127.0.0.1:6969.
 Testing the Server
 
